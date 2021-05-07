@@ -46,7 +46,7 @@
     "socket.io": "^2.0.4",
     "spark-md5": "^3.0.0",
     "store": "^2.0.12",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "vue": "^2.6.10",
     "vue-i18n": "^8.10.0",
     "vue-plyr": "^5.1.3",
